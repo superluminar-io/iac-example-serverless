@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "aws-sdk": "^2.610.0",
+    "serverless": "^1.62.0"
+  },
+  "scripts": {
+    "deploy": "sls deploy"
+  }
+}
