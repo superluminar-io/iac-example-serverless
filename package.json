@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "aws-sdk": "^2.610.0",
+    "aws-sdk": "^2.814.0",
     "serverless": "^1.62.0"
   },
   "scripts": {
